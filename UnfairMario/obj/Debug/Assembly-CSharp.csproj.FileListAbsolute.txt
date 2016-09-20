@@ -1,0 +1,42 @@
+C:\Users\VLAJKOVICM_INFO\Documents\UnfairMario\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\VLAJKOVICM_INFO\Documents\UnfairMario\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\VLAJKOVICM_INFO\Documents\UnfairMario\Temp\bin\Debug\UnityEditor.dll
+C:\Users\VLAJKOVICM_INFO\Documents\UnfairMario\Temp\bin\Debug\UnityEngine.dll
+C:\Users\VLAJKOVICM_INFO\Documents\UnfairMario\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\VLAJKOVICM_INFO\Documents\UnfairMario\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\VLAJKOVICM_INFO\Documents\UnfairMario\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\VLAJKOVICM_INFO\Documents\UnfairMario\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\VLAJKOVICM_INFO\Documents\UnfairMario\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\VLAJKOVICM_INFO\Documents\UnfairMario\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\VLAJKOVICM_INFO\Documents\UnfairMario\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\VLAJKOVICM_INFO\Documents\UnfairMario\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\VLAJKOVICM_INFO\Documents\UnfairMario\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\VLAJKOVICM_INFO\Documents\UnfairMario\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\VLAJKOVICM_INFO\Documents\UnfairMario\Temp\bin\Debug\UnityEngine.xml
+C:\Users\VLAJKOVICM_INFO\Documents\UnfairMario\Temp\bin\Debug\UnityEditor.xml
+C:\Users\VLAJKOVICM_INFO\Documents\UnfairMario\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\VLAJKOVICM_INFO\Documents\UnfairMario\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\VLAJKOVICM_INFO\Documents\UnfairMario\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\VLAJKOVICM_INFO\Documents\UnfairMario\obj\Debug\Assembly-CSharp.dll
+C:\Users\VLAJKOVICM_INFO\Documents\UnfairMario\obj\Debug\Assembly-CSharp.pdb
+E:\TroisiemeAnnee\Projet Unfair Mario\UnfairMario\Temp\bin\Debug\Assembly-CSharp.dll
+E:\TroisiemeAnnee\Projet Unfair Mario\UnfairMario\Temp\bin\Debug\Assembly-CSharp.pdb
+E:\TroisiemeAnnee\Projet Unfair Mario\UnfairMario\Temp\bin\Debug\UnityEditor.dll
+E:\TroisiemeAnnee\Projet Unfair Mario\UnfairMario\Temp\bin\Debug\UnityEngine.dll
+E:\TroisiemeAnnee\Projet Unfair Mario\UnfairMario\Temp\bin\Debug\UnityEngine.Networking.dll
+E:\TroisiemeAnnee\Projet Unfair Mario\UnfairMario\Temp\bin\Debug\UnityEngine.UI.dll
+E:\TroisiemeAnnee\Projet Unfair Mario\UnfairMario\Temp\bin\Debug\Mono.Cecil.dll
+E:\TroisiemeAnnee\Projet Unfair Mario\UnfairMario\Temp\bin\Debug\Unity.SerializationLogic.dll
+E:\TroisiemeAnnee\Projet Unfair Mario\UnfairMario\Temp\bin\Debug\Unity.DataContract.dll
+E:\TroisiemeAnnee\Projet Unfair Mario\UnfairMario\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+E:\TroisiemeAnnee\Projet Unfair Mario\UnfairMario\Temp\bin\Debug\Unity.UNetWeaver.dll
+E:\TroisiemeAnnee\Projet Unfair Mario\UnfairMario\Temp\bin\Debug\Unity.CecilTools.dll
+E:\TroisiemeAnnee\Projet Unfair Mario\UnfairMario\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+E:\TroisiemeAnnee\Projet Unfair Mario\UnfairMario\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+E:\TroisiemeAnnee\Projet Unfair Mario\UnfairMario\Temp\bin\Debug\UnityEngine.xml
+E:\TroisiemeAnnee\Projet Unfair Mario\UnfairMario\Temp\bin\Debug\UnityEditor.xml
+E:\TroisiemeAnnee\Projet Unfair Mario\UnfairMario\Temp\bin\Debug\UnityEngine.UI.xml
+E:\TroisiemeAnnee\Projet Unfair Mario\UnfairMario\Temp\bin\Debug\UnityEngine.Networking.xml
+E:\TroisiemeAnnee\Projet Unfair Mario\UnfairMario\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+E:\TroisiemeAnnee\Projet Unfair Mario\UnfairMario\obj\Debug\Assembly-CSharp.dll
+E:\TroisiemeAnnee\Projet Unfair Mario\UnfairMario\obj\Debug\Assembly-CSharp.pdb
