@@ -1,7 +1,8 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class MissilesMario : MonoBehaviour {
+public class MissilesMario : MonoBehaviour
+{
 
     GameObject parent;
 
@@ -12,14 +13,14 @@ public class MissilesMario : MonoBehaviour {
 
     void OnTriggerEnter2D(Collider2D coll)
     {
-        if (coll.tag == "Player")
+        if (coll.tag == "Player" && gameObject.name == "DetectionMort")
         {
             Debug.Log("Missile Meurt");
-            
+
             GameObject.Find("Mario").GetComponent<MarioMoves>().Jump();
-           // parent.GetComponent<Animator>().Play("GoombaDead");
+            // parent.GetComponent<Animator>().Play("GoombaDead");
             Destroy(parent.GetComponent<Collider2D>());
-            Destroy(parent,0.3f);
+            Destroy(parent, 0.3f);
         }
     }
 }
